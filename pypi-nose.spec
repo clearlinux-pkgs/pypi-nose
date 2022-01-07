@@ -17,6 +17,7 @@ Requires: pypi-nose-bin = %{version}-%{release}
 Requires: pypi-nose-man = %{version}-%{release}
 Requires: pypi-nose-python = %{version}-%{release}
 Requires: pypi-nose-python3 = %{version}-%{release}
+Provides: nose
 BuildRequires : buildreq-distutils3
 Patch1: doc-install.patch
 Patch2: 0001-Disable-use_2to3-setuptools-option.patch
