@@ -1,1 +1,5 @@
 # This file contains recursive sources that require this package
+koji
+pypi-pastedeploy
+pypi-pyparsing
+pypi-seqdiag
